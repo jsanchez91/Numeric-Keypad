@@ -1,0 +1,21 @@
+* {
+  margin:0px;
+  padding:0px;
+  background: #D9EDF7;
+}
+
+#keypad{
+	display: block;
+	margin: 50px auto;
+}
+
+#display{
+	display: block;
+	font: 30px arial;
+	width: 300px;
+	height: 30px;
+	background: white;
+	border-bottom: solid #E0E0E0 3px;
+	margin: 50px auto;
+	background: 
+}
